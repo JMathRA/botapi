@@ -1,3 +1,6 @@
+<?php 
+echo "oi";
+?>
 <?php
 
 $servidor = 'localhost';
